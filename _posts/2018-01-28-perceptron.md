@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "SQL: Design and Implementation of a HR Database using MySQL "
+date: 2018-12-17
+tags: [sql, data analysis, database]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Data Wrangling, Data Analysis, Messy Data"
 mathjax: "true"
 ---
 
