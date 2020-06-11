@@ -4,7 +4,7 @@ date: 2018-12-17
 tags: [sql, data analysis, database]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Analysis, Messy Data"
+excerpt: "Data Analysis, SQL, Databases"
 mathjax: "true"
 ---
 
